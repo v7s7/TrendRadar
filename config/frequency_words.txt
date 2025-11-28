@@ -1,113 +1,167 @@
-胖东来
-于东来
+Bitcoin
+BTC
+比特币
+Ethereum
+ETH
+以太坊
+Solana
+SOL
+索拉纳
+SOL币
+crypto
+cryptocurrencies
+cryptocurrency
+加密货币
+数字货币
+虚拟货币
+altcoin
+altcoins
+山寨币
+meme coin
+meme coins
+梗币
+DeFi
+去中心化金融
+stablecoin
+stablecoins
+稳定币
+blockchain
+区块链
+crypto market
+数字货币市场
+bull market
+bear market
+牛市
+熊市
+rally
+crash
+dump
+pump
+all-time high
+ATH
+历史新高
+ETF
+现货ETF
+spot ETF
+regulation
+crypto regulation
+监管
+监管政策
+SEC
+证监会
 
-DeepSeek
-梁文锋
+Trump
+Donald Trump
+特朗普
+Biden
+Joe Biden
+拜登
+US election
+election
+elections
+美国大选
+选举
+interest rates
+rate hike
+rate cut
+加息
+降息
+利率
+Fed
+Federal Reserve
+美联储
+inflation
+通胀
+通货膨胀
+CPI
+PCE
+recession
+衰退
+经济衰退
+war
+战争
+conflict
+冲突
+military strike
+military action
+军事打击
+军事行动
+missile attack
+导弹袭击
+geopolitics
+地缘政治
+sanctions
+制裁
+tariffs
+关税
+oil prices
+oil price
+油价
+OPEC
+欧佩克
+Middle East
+中东
+Ukraine
+乌克兰
+Russia
+俄罗斯
+Israel
+以色列
+Gaza
+加沙
+Iran
+伊朗
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
+AI
+artificial intelligence
 人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+AI model
+large language model
+large language models
+LLM
+大模型
+大型语言模型
+chatbot
+聊天机器人
+ChatGPT
+OpenAI
+Gemini
+DeepMind
+Anthropic
+Claude
+DeepSeek
+machine learning
+机器学习
+AGI
+通用人工智能
+AI safety
+AI regulation
+AI policy
+AI race
+AI ban
+AI news
+算力
+算力竞赛
+AI技术
+AI应用
+!stock
+!stocks
+!share price
+!shares
+!equity
+!equities
+!NVIDIA
+!NVDA
+!AMD
+!TSLA
+!MSFT
+!GOOGL
+!META
+!美股
+!港股
+!股票
+!股价
+!股市
+!指数
+!ETF
+!基金
